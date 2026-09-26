@@ -1,0 +1,7 @@
+BUCKET_NAME=magickvoice-pipeline-reshma
+SECRET_NAME=magickvoice/pipeline/config
+RAW_PREFIX=raw/
+API_BASE_URL=https://appi.magickvoice.com
+API_ENDPOINT=/contact-lists
+BROADCAST_FUNCTION_NAME=magickvoice-broadcast-launcher
+# No real credentials in this file.
